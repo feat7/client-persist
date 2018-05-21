@@ -1,0 +1,27 @@
+{
+    "name": "client-store",
+    "description": "Fork of localForage with sessionStorage support",
+    "repository": {
+        "url": "https://github.com/feat7/client-store",
+        "license": "Apache 2.0",
+        "tests": "https://travis-ci.org/feat7/client-store"
+    },
+    "participate": {
+        "home": "https://github.com/feat7/client-store",
+        "docs": "http://feat7.github.io/client-store"
+    },
+    "bugs": {
+        "list": "https://github.com/feat7/client-store/issues",
+        "report": "https://github.com/feat7/client-store/issues/new",
+        "goodfirstbug": "https://github.com/feat7/client-store/labels/help%20wanted"
+    },
+    "keywords": [
+        "javascript",
+        "indexeddb",
+        "localstorage",
+        "sessionstorage",
+        "offline",
+        "storage",
+        "websql"
+    ]
+}
