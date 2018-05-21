@@ -10,3 +10,23 @@ or, if you use npm
 ```
 npm install client-persist
 ```
+# Usage
+```
+import clientPersist from 'client-persist';
+
+// to use sessionStorage
+clientPersist.setDriver(clientPersist.SESSIONSTORAGE)
+```
+# Documentation
+[Documentation of localForage](https://localforage.github.io/localForage)
+
+```client-persist``` provides additonal driver for ```sessionStorage``` on localForage.
+
+sessionStorage driver can be selected by ```setDrvier``` method.
+
+```clientPersist.SESSIONSTORAGE``` is driver for sessionStorage compatibility.
+# License
+The Apache 2.0 License.
+
+# More
+See [localForage](https://github.com/localForage/localForage) for more details.
