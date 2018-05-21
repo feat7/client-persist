@@ -1,19 +1,19 @@
 {
-    "name": "client-store",
+    "name": "client-perist",
     "description": "Fork of localForage with sessionStorage support",
     "repository": {
-        "url": "https://github.com/feat7/client-store",
+        "url": "https://github.com/feat7/client-persist",
         "license": "Apache 2.0",
-        "tests": "https://travis-ci.org/feat7/client-store"
+        "tests": "https://travis-ci.org/feat7/client-persist"
     },
     "participate": {
-        "home": "https://github.com/feat7/client-store",
-        "docs": "http://feat7.github.io/client-store"
+        "home": "https://github.com/feat7/client-persist",
+        "docs": "http://feat7.github.io/client-persist"
     },
     "bugs": {
-        "list": "https://github.com/feat7/client-store/issues",
-        "report": "https://github.com/feat7/client-store/issues/new",
-        "goodfirstbug": "https://github.com/feat7/client-store/labels/help%20wanted"
+        "list": "https://github.com/feat7/client-persist/issues",
+        "report": "https://github.com/feat7/client-persist/issues/new",
+        "goodfirstbug": "https://github.com/feat7/client-persist/labels/help%20wanted"
     },
     "keywords": [
         "javascript",

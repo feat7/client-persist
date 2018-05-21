@@ -1,5 +1,5 @@
 {
-  "name": "client-store",
+  "name": "client-persist",
   "author": "feat7",
   "license": "Apache-2.0",
   "description": "Fork of localForage with sessionStorage support.",
@@ -11,10 +11,10 @@
     "websql"
   ],
   "version": "1.7.1",
-  "homepage": "https://github.com/feat7/client-store",
+  "homepage": "https://github.com/feat7/client-persist",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feat7/client-store.git"
+    "url": "git://github.com/feat7/client-persist.git"
   },
   "scripts": {
     "build": "node -e \"require('grunt').cli()\" null build",
@@ -68,7 +68,7 @@
   "main": "dist/localforage.js",
   "typings": "typings/localforage.d.ts",
   "bugs": {
-    "url": "http://github.com/feat7/client-store/issues"
+    "url": "http://github.com/feat7/client-persist/issues"
   },
   "dependencies": {
     "lie": "3.1.1"
