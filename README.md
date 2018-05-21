@@ -84,7 +84,7 @@ clientPersist.getItem('keyName')
 .then(value => console.log(value));
 ```
 # License
-The Apache 2.0 License.
+See LICENSE file.
 
 # More
 See [localForage](https://github.com/localForage/localForage) for more details.
